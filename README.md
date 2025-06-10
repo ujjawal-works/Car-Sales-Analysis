@@ -12,25 +12,25 @@ CarSales_Part2_DashboardScreenshot.png: Screenshot of the final dashboard
 
 📊 Visualizations
 Excel Visuals
-Bar chart: Quantity sold by Dealer ID
+* Bar chart: Quantity sold by Dealer ID
 
-Line chart: Profit by Date and Model
+* Line chart: Profit by Date and Model
 
-Column chart: Profit by Year and Dealer ID
+* Column chart: Profit by Year and Dealer ID
 
-Line chart: Hudson model profit by Dealer ID
+* Line chart: Hudson model profit by Dealer ID
 
 Cognos Dashboard
-KPIs: Total Profit, Quantity Sold, Average Quantity
+* KPIs: Total Profit, Quantity Sold, Average Quantity
 
-Charts: Sales by model, Profit by Dealer ID, Car recalls, Customer sentiment
+* Charts: Sales by model, Profit by Dealer ID, Car recalls, Customer sentiment
 
-Treemap, line-column chart, and heatmap included
+* Treemap, line-column chart, and heatmap included
 
 🛠️ Tools Used
-Microsoft Excel
+* Microsoft Excel
 
-IBM Cognos Analytics
+* IBM Cognos Analytics
 
 ✅ Conclusion
 This project demonstrates the ability to extract business insights using data visualization. It showcases essential skills in Excel charting and dashboard development with IBM Cognos, helping identify profit patterns and dealership performance.
